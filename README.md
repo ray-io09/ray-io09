@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="PASTE-YOUR-DIRECT-GIF-LINK-HERE.gif" width="400" alt="Animated GIF">
+  <img src="https://tenor.com/en-GB/view/shiny-charizard-fire-flames-dragon-pokemon-gif-16664925" width="400" alt="Animated GIF">
 </p>
 
 <p align="center">
