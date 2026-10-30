@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://tenor.com/en-GB/view/shiny-charizard-fire-flames-dragon-pokemon-gif-16664925" width="400" alt="Animated GIF](https://tenor.com/en-GB/view/shiny-charizard-fire-flames-dragon-pokemon-gif-16664925)">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ2b3BrejU0bndhdDl3bWFjOGFkYnhmNGh6bDdvanFwcHZoeHNhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BMzfD9susqw0rzfT9n/giphy.gif">
 </p>
 
 <p align="center">
