@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ray 👋</h1>
+<h1 align="center">Hi, I'm Rayan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=520&lines=Aspiring+cyber+security+professional;Learning+Linux+%2B+Python;Experimenting+with+OSINT+and+RFID;Based+in+Scotland" alt="Typing animation" />
@@ -11,15 +11,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber_Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Open_Source_Intelligence-OSINT-informational?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👨‍💻 About me
-Cyber security student from Scotland. I've been coding since I was 7 (Scratch!) and now teach myself Linux and Python alongside my Highers and a college cyber security course.
+Cyber security student from scotland.
 
 ### 🔭 What I'm working on
 - 🔐 Password Strength Checker (Python)
@@ -27,7 +25,7 @@ Cyber security student from Scotland. I've been coding since I was 7 (Scratch!) 
 - 🎓 Cyber security course at college alongside my Highers
 
 ### 🌱 What I'm learning
-- 🐧 Linux command line and file permissions
+- 🐧 Linux
 - 🌐 Networking and security fundamentals
 - 🕵️ OSINT and how attackers use public information
 - 🐍 Python
@@ -35,7 +33,7 @@ Cyber security student from Scotland. I've been coding since I was 7 (Scratch!) 
 ### 🧰 Interests
 - 🐢 Turtles
 - 🎮 Gaming
-- 🎵 Music production
+- 🎵 Music 
 - 📡 Flipper Zero and RFID (my own devices only)
 - 🎧 Podcasts: Darknet Diaries, NCSC series
 
